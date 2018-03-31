@@ -1,3 +1,8 @@
 ahahh goubi
 branch dev
+<<<<<<< HEAD
 kkkkk
+=======
+Dev create use 
+>>>>>>> dev
+hahah  2018.4.1
