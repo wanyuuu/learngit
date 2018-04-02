@@ -10,5 +10,3 @@ today is another day!
 <<<<<<< HEAD
 this is not be commit! djshfkjsflksefefefew
 this is not be commit!  load to far 
-
-
